@@ -1,0 +1,31 @@
+{
+  "name": "notsodumbot",
+  "version": "0.0.5",
+  "description": "Not-so Brief Setup Guide ANymore. (Nov 14, 2019)\r =================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "node buildships2.js ./devconf.js",
+    "start": "node buildships2.js"
+  },
+  "keywords": [
+    "dsteem",
+    "nextcolony",
+    "batch",
+    "automation"
+  ],
+  "author": "joebabana",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dsteem": "^0.11.3",
+    "moment": "^2.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joebabana/banabot2019.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joebabana/banabot2019/issues"
+  },
+  "homepage": "https://github.com/joebabana/banabot2019#readme"
+}

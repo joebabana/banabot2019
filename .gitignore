@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+devconf.js
+package-lock.json
+battlecruiser.js
+cutter.js
+corvette.js
+corvette2.js
+cutter2.js
+destroyer.js
+frigate.js
+frigate2.js
+config.*
+carrier.js
+corvette1.js
+cruiser.js
+explorer1.js
